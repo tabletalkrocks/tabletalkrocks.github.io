@@ -22,7 +22,7 @@ people:
       url: https://twitter.com/jsheng0811
     - title: facebook
       url: https://www.facebook.com/JshengTan
-    - title: www
+    - title: globe
       url: http://www.jishengtan.me
 
 - name: Hanif Marzuki
@@ -36,7 +36,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Random Guy
+- name: Random Girl
   pic: 3
   position: Lead Developer
   social:
