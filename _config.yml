@@ -16,13 +16,13 @@ color:
 people:
 - name: Tan Ji Sheng
   pic: 1
-  position: Tech Wizard at <a href="qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
+  position: Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
   social:
     - title: twitter
       url: https://twitter.com/jsheng0811
     - title: facebook
       url: https://www.facebook.com/JshengTan
-    - title: website
+    - title: www
       url: http://www.jishengtan.me
 
 - name: Hanif Marzuki
