@@ -13,7 +13,18 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
+
 people:
+- name: Alysia Goh
+  pic: 3
+  position: President at TableTalk<br>Co-Founder at TableTalk
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 - name: Tan Ji Sheng
   pic: 1
   position: Co-Founder at TableTalk<br>Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
@@ -47,17 +58,6 @@ people:
     - title: google-plus
       url: #
 
-
-- name: Alysia Goh
-  pic: 3
-  position: Co-Founder at TableTalk
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
