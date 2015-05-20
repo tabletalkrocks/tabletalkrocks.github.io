@@ -16,7 +16,7 @@ color:
 people:
 - name: Tan Ji Sheng
   pic: 1
-  position: Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
+  position: Co-Founder at TableTalk<br>Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
   social:
     - title: twitter
       url: https://twitter.com/jsheng0811
@@ -27,7 +27,7 @@ people:
 
 - name: Hanif Marzuki
   pic: 2
-  position: Rain Maker at <a href="qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a> 
+  position: Co-Founder at TableTalk<br>Rain Maker at <a href="qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a> 
   social:
     - title: twitter
       url: #
@@ -36,9 +36,21 @@ people:
     - title: linkedin
       url: #
 
-- name: Random Girl
+- name: Gary Maurice
+  pic: 4
+  position: Co-Founder at TableTalk<br>Co-Founder at <a href="hotmakan.com.my">Hotmakan.com.my</a>
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+- name: Alysia Goh
   pic: 3
-  position: Lead Developer
+  position: Co-Founder at TableTalk
   social:
     - title: twitter
       url: #
