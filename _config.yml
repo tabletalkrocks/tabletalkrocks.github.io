@@ -71,6 +71,19 @@ people:
       url: #
     - title: linkedin
       url: #
+
+- name: Raja Durai
+  pic: 6
+  position:  at TableTalk
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+    - title: linkedin
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
