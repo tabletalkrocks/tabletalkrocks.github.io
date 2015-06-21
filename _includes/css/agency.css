@@ -499,7 +499,7 @@ section h3.section-subheading {
 }
 
 .timeline>li .timeline-image h4 {
-    margin-top: 12px;
+    margin-top: 9px;
     font-size: 10px;
     line-height: 14px;
 }
@@ -567,7 +567,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 16px;
+        margin-top: 12px;
         font-size: 13px;
         line-height: 18px;
     }
@@ -595,7 +595,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 30px;
+        margin-top: 22px;
         font-size: 18px;
         line-height: 26px;
     }
@@ -621,7 +621,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
