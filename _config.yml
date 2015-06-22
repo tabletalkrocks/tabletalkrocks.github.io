@@ -19,12 +19,11 @@ people:
   pic: 3
   position: President at TableTalk<br>Co-Founder at TableTalk
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/alysia.goh
+    - title: twitter
+      url: https://twitter.com/alysiagoh
+
 - name: Tan Ji Sheng
   pic: 1
   position: Co-Founder at TableTalk<br>Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
@@ -41,36 +40,32 @@ people:
   position: Co-Founder at TableTalk<br>Rain Maker at <a href="qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a> 
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/mrmarzuki
     - title: facebook
-      url: #
+      url: https://www.facebook.com/hanifmar
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hanifmarzukibinmohdsaupi
 
 - name: Gary Maurice
   pic: 4
   position: Co-Founder at TableTalk<br>Co-Founder at <a href="hotmakan.com.my">Hotmakan.com.my</a>
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ybgarr
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/ybgarr
+    - title: instagram
+      url: https://instagram.com/ybgarr
 
 #End of co-founder
 - name: Charmaine Chia
   pic: 5
   position: Treasurer at TableTalk
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/charmaine.chia1
+    - title: instagram
+      url: https://instagram.com/cutesycharmy_94/
 
 - name: Raja Durai
   pic: 6
@@ -82,12 +77,17 @@ people:
       url: https://www.facebook.com/raja.durai.587
     - title: linkedin
       url: https://www.linkedin.com/pub/raja-durai/b1/41a/159
+
+- name: Xavier Koh
+  pic: 7
+  position:  Manager at TableTalk
+  social:
+    - title: facebook
+      url: https://www.facebook.com/xavier0909
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: #
   - title: facebook
-    url: #
+    url: https://www.facebook.com/tabletalkmmu
 
 # Postal address (add as many lines as necessary)
 address:
