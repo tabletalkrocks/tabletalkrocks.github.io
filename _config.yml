@@ -58,6 +58,16 @@ people:
       url: https://instagram.com/ybgarr
 
 #End of co-founder
+
+- name: Iqbal Iffat
+  pic: 8
+  position: Secretary at TableTalk
+  social:
+    - title: facebook
+      url: https://www.facebook.com/iqbal.iffat
+    - title: twitter
+      url: https://twitter.com/iqbaliffat
+
 - name: Charmaine Chia
   pic: 5
   position: Treasurer at TableTalk
@@ -80,10 +90,11 @@ people:
 
 - name: Xavier Koh
   pic: 7
-  position:  Manager at TableTalk
+  position:  Logistic and Special Task Manager at TableTalk
   social:
     - title: facebook
       url: https://www.facebook.com/xavier0909
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
