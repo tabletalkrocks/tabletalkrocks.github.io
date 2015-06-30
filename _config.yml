@@ -16,7 +16,7 @@ color:
 
 people:
 - name: Alysia Goh
-  pic: 3
+  pic: alysia
   position: President at TableTalk<br>Co-Founder at TableTalk
   social:
     - title: facebook
@@ -25,7 +25,7 @@ people:
       url: https://twitter.com/alysiagoh
 
 - name: Tan Ji Sheng
-  pic: 1
+  pic: jisheng
   position: Co-Founder at TableTalk<br>Tech Wizard at <a href="http://www.qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a>
   social:
     - title: facebook
@@ -36,7 +36,7 @@ people:
       url: http://www.jishengtan.me
 
 - name: Hanif Marzuki
-  pic: 2
+  pic: hanif
   position: Co-Founder at TableTalk<br>Rain Maker at <a href="qtixapp.com">Asterisque Technology Malaysia Sdn. Bhd.</a> 
   social:
     - title: twitter
@@ -47,7 +47,7 @@ people:
       url: https://www.linkedin.com/in/hanifmarzukibinmohdsaupi
 
 - name: Gary Maurice
-  pic: 4
+  pic: gary
   position: Co-Founder at TableTalk<br>Co-Founder at <a href="hotmakan.com.my">Hotmakan.com.my</a>
   social:
     - title: twitter
@@ -60,7 +60,7 @@ people:
 #End of co-founder
 
 - name: Iqbal Iffat
-  pic: 8
+  pic: iqbal
   position: Secretary at TableTalk
   social:
     - title: facebook
@@ -69,7 +69,7 @@ people:
       url: https://twitter.com/iqbaliffat
 
 - name: Charmaine Chia
-  pic: 5
+  pic: charmaine
   position: Treasurer at TableTalk
   social:
     - title: facebook
@@ -77,8 +77,15 @@ people:
     - title: instagram
       url: https://instagram.com/cutesycharmy_94/
 
+- name: Jaesern Hoo
+  pic: jaesern
+  position:  Treasurer at TableTalk
+  social:
+    - title: facebook
+      url: https://www.facebook.com/jaesern.hoo
+
 - name: Raja Durai
-  pic: 6
+  pic: rajadurai
   position:  Logistic and Special Task Manager at TableTalk
   social:
     - title: twitter
@@ -88,31 +95,31 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/raja-durai/b1/41a/159
 
+
+#End of row 2
 - name: Xavier Koh
-  pic: 7
+  pic: xavier
   position:  Logistic and Special Task Manager at TableTalk
   social:
     - title: facebook
       url: https://www.facebook.com/xavier0909
 
-#End of row 2
-
 - name: Xiang Han
-  pic: 9
+  pic: xianghan
   position: Public Relation Manager at TableTalk
   social:
     - title: facebook
       url: https://www.facebook.com/gan.xianghan
 
 - name: Yvonne Chow
-  pic: 10
+  pic: yvonne
   position:  Public Relation Manager at TableTalk
   social:
     - title: facebook
       url: https://www.facebook.com/lorkyee94
 
 - name: Ugenteraan
-  pic: 11
+  pic: ugenteraan
   position:  Creative Manager at TableTalk
   social:
     - title: facebook
